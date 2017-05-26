@@ -5,3 +5,5 @@ cd --进入某个文件夹
 ls --查看当前目录下文件
 mkdir 文件名 --建立文件夹
 ctrol+c+c 强制终止指令
+git init -- 在这里创建一个git仓库
+git add
